@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Art Co](https://www.art-co.me/)
 
-- 🌱 I’m currently learning **JS, React**
+- 🌱 I’m currently learning to master **React & Node.js**
 
 - 📫 How to reach me **mathilde.peiffer@hotmail.com**
 
