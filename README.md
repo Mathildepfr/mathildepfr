@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **JS, React**
 
-- 🤝 I’m looking for a job **in Melbourne**
-
 - 📫 How to reach me **mathilde.peiffer@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
