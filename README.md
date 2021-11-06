@@ -5,7 +5,7 @@
 
 - 👩‍💻 Have a look at my [portfolio](http://www.mathildepeiffer.com/) 
 
-- 🌱 I’m currently learning to master **React & Node.js** 
+- 🌱 I’m currently learning to master **React & Node.js**  
 
 - 🖥 Working as **Web Designer** @Framework in Melbourne
 
