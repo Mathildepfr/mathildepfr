@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathildepfr&label=Profile%20views&color=0e75b6&style=flat" alt="mathildepfr" /> </p>
 
-- 👩‍💻 Have a look at my [portfolio](http://www.mathildepeiffer.com/) 
+- 👩‍💻 Have a look at my [portfolio](http://www.mathildepeiffer.com/)  
 
 - 🌱 I’m currently learning to master **React & Node.js**  
 
