@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning to master **React & Node.js**  
 
-- 🖥 Working as **Web Designer** @Framework in Melbourne
+- 🖥 Working as **Web Designer** @Framework in Melbourne 
 
 - 📫 How to reach me: **mathilde.peiffer@hotmail.com** or [here](https://www.linkedin.com/in/mathilde-peiffer)
 
