@@ -1,4 +1,4 @@
-![cover2](https://user-images.githubusercontent.com/86634734/144549299-cd08704e-678b-4aa6-937c-5e92ffe92eca.jpg)
+![GitHub](https://user-images.githubusercontent.com/86634734/144549404-e79eed81-5253-4940-a968-99df1b1bf6c8.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Mathilde</h1>
