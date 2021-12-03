@@ -1,3 +1,6 @@
+![cover2](https://user-images.githubusercontent.com/86634734/144549299-cd08704e-678b-4aa6-937c-5e92ffe92eca.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Mathilde</h1>
 <h3 align="center">A passionate frontend developer from Belgium, living in Melbourne</h3>
 
