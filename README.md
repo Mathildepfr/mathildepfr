@@ -1,7 +1,7 @@
 ![GitHub](https://user-images.githubusercontent.com/86634734/144549404-e79eed81-5253-4940-a968-99df1b1bf6c8.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Mathilde</h1>
+<h1 align="center">Hi 👋, I'm Mathilde</h1> 
 <h3 align="center">A passionate frontend developer from Belgium, living in Melbourne</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathildepfr&label=Profile%20views&color=0e75b6&style=flat" alt="mathildepfr" /> </p>
